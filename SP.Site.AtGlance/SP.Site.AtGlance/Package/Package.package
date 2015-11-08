@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="c5b03c29-a051-4638-8a2d-91281323d0f6" 
+        solutionId="c5b03c29-a051-4638-8a2d-91281323d0f6" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="SP.Site.AtGlance"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="f7c50685-4225-4097-bd07-39d87a8564ae" />
+  </features>
+</package>

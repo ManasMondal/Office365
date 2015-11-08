@@ -1,0 +1,3 @@
+D:\Projects\Research and Development\SP.Site.AtGlance\SP.Site.AtGlance\bin\Debug\SP.Site.AtGlance.pdb
+D:\Projects\Research and Development\SP.Site.AtGlance\SP.Site.AtGlance\obj\Debug\SP.Site.AtGlance.dll
+D:\Projects\Research and Development\SP.Site.AtGlance\SP.Site.AtGlance\obj\Debug\SP.Site.AtGlance.pdb
