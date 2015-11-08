@@ -1,1 +1,0 @@
-bin\Debug\SP.Site.AtGlance.wsp

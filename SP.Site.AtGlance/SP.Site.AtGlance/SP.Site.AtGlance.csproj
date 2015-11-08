@@ -47,6 +47,7 @@
     <None Include="Pages\SharePointProjectItem.spdata">
       <SharePointProjectItemId>{c76ccc20-76f7-410c-99b4-ae426b45cddf}</SharePointProjectItemId>
     </None>
+    <Content Include="Content\ui-bootstrap-csp.css" />
     <Content Include="Pages\Elements.xml" />
     <Content Include="Pages\Default.aspx" />
   </ItemGroup>
@@ -55,6 +56,10 @@
     <None Include="Scripts\SharePointProjectItem.spdata">
       <SharePointProjectItemId>{7dc3d15e-2399-4978-9953-eedf56d04f2f}</SharePointProjectItemId>
     </None>
+    <Content Include="Scripts\angular-ui\ui-bootstrap-tpls.js" />
+    <Content Include="Scripts\angular-ui\ui-bootstrap-tpls.min.js" />
+    <Content Include="Scripts\angular-ui\ui-bootstrap.js" />
+    <Content Include="Scripts\angular-ui\ui-bootstrap.min.js" />
     <Content Include="Scripts\Elements.xml" />
     <Content Include="Scripts\App.js" />
     <Content Include="Scripts\jquery-1.9.1.intellisense.js" />

@@ -6,5 +6,9 @@
     <File Path="Scripts\jquery-1.9.1.min.js" Url="Scripts/jquery-1.9.1.min.js" ReplaceContent="TRUE" />
     <File Path="Scripts\jquery-1.9.1.js" Url="Scripts/jquery-1.9.1.js" ReplaceContent="TRUE" />
     <File Path="Scripts\jquery-1.9.1.intellisense.js" Url="Scripts/jquery-1.9.1.intellisense.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\angular-ui\ui-bootstrap.min.js" Url="Scripts/angular-ui/ui-bootstrap.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\angular-ui\ui-bootstrap.js" Url="Scripts/angular-ui/ui-bootstrap.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\angular-ui\ui-bootstrap-tpls.min.js" Url="Scripts/angular-ui/ui-bootstrap-tpls.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\angular-ui\ui-bootstrap-tpls.js" Url="Scripts/angular-ui/ui-bootstrap-tpls.js" ReplaceContent="TRUE" />
   </Module>
 </Elements>
